@@ -5,7 +5,6 @@
 
 
 ## Структура проекта
-'''
 .
 └── geometric_lib
     ├── circle.py
@@ -14,13 +13,12 @@
     ├── rectangle.py
     ├── square.py
     └── triangle.py
-'''
 
 ## Функции из файла circle.py
 
 ### Функция area
-'''
 Возвращает площадь круга.
+
     Параметры:
         r (int/float) : радиус круга
 
@@ -30,11 +28,10 @@
 Пример вызова функции:
     area(3) --> возвращает 28.274333882308138
     area(4.7) --> 69.39778171779854
-'''
 
 ### Функция perimeter
-'''
 Возвращает периметр круга.
+
     Параметры:
         r (float) : радиус круга
 
@@ -44,14 +41,13 @@
 Пример вызова функции:
     perimeter(3) --> возвращает 18.84955592153876
     perimeter(4.5) --> возвращает 29.530970943744055
-'''
 
 ## Функции из файла rectangle.py
 
 ### Функция area
 
-'''
 Возвращает площадь прямоугольника.
+
     Параметры:
         a (int/float) : первая сторона прямоугольника
         b (int/float) : вторая сторона прямоугольника
@@ -62,12 +58,11 @@
 Пример вызова функции:
     area(3, 4) --> возвращает 12
     area(4.5, 8.2) --> возвращает 36.9
-'''
 
 ### Функция perimeter
 
-'''
 Возвращает периметр прямоугольника.
+
     Параметры:
         a (int/float) : первая сторона прямоугольника
         b (int/float) : вторая сторона прямоугольника
@@ -78,13 +73,12 @@
 Пример вызова функции:
     perimeter(3, 4) --> возвращает 14
     perimeter(4.5, 7.9) --> возвращает 24.8
-'''
 
 ## Функции из файла square.py
 
 ### Функция area
-'''
 Возвращает площадь квадрата.
+
     Параметры:
         a (int/float) : сторона квадрата
 
@@ -94,12 +88,11 @@
 Пример вызова функции:
     area(5) --> возвращает 25
     area(3.8) --> возвращает 14.44
-'''
 
 ### Функция perimeter
 
-'''
 Возвращает периметр квадрата.
+
     Параметры:
         a (int/float) : сторона квадрата
 
@@ -109,14 +102,13 @@
 Пример вызова функции:
     perimeter(4) --> возвращает 16
     perimeter(3.8) --> возвращает 15.2
-'''
 
 ## Функции из файла triangle.py
 
 ### Функция area
 
-'''
 Возвращает площадь треугольника.
+
     Параметры:
         a (int/float) : сторона треугольника
         h (int/float) : высота треугольника
@@ -127,11 +119,10 @@
 Пример вызова функции:
     area(4, 6) --> возвращает 12
     area(2.1, 6.8) --> возвращает 7.14
-'''
 
 ### Функция perimeter
-'''
 Возвращает периметр треугольника.
+
     Параметры:
         a (int/float) : первая сторона треугольника
         b (int/float) : вторая сторона треугольника
@@ -143,24 +134,11 @@
 Пример вызова функции:
     perimeter(3, 4, 5) --> возвращает 12
     perimeter(3.6, 1.5, 2) --> возвращает 7.1
-'''
 
 ## История изменений проекта
 '''
-* 1fa7bd2 (HEAD -> deadline_0) Library documentation added (functions descriptions).
-| * 86edb1c (origin/release) L-05: Update Docs. Add user agreement info
-| * 438b89a L-05: Add user agreement
-| * 6adb962 L-03: Docs added
-| | * 3049431 (origin/feature) L-04: Add rectangle.py
-| |/
-|/|
-| | * b5b0fae (origin/develop) L-04: Update docs for calculate.py
-| | * d76db2a L-04: Add calculate.py
-| | * 51c40eb L-04: Doc updated for triangle
-| | * d080c78 L-04: Triangle added
-| |/
-|/|
-* | d078c8d (origin/main, origin/HEAD, main) L-03: Docs added
-|/
-* 8ba9aeb L-03: Circle and square added
+ * b5b0fae (origin/develop) L-04: Update docs for calculate.py
+ * d76db2a L-04: Add calculate.py
+ * 51c40eb L-04: Doc updated for triangle
+ * d080c78 L-04: Triangle added
 '''
