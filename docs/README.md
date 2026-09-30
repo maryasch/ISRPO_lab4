@@ -6,7 +6,7 @@
 
 ## Структура проекта
 
-.
+.  
 └── geometric_lib  
     ├── circle.py  
     ├── docs  
