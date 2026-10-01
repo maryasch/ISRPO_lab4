@@ -133,7 +133,9 @@
         perimeter(3.6, 1.5, 2) --> возвращает 7.1
 
 ## История изменений проекта
- * b5b0fae (origin/develop) L-04: Update docs for calculate.py
- * d76db2a L-04: Add calculate.py
- * 51c40eb L-04: Doc updated for triangle
- * d080c78 L-04: Triangle added
+ * d8ab03c (HEAD -> deadline_0, origin/deadline_0) Final changes made.
+ * af1f968 The most final style created in README.md (space issue resolved).
+ * 86e2c5e Final atyle created in README.md.
+ * e47294b Better style applied.
+ * cf59cac Readme updated.
+ * dc95a06 Lab done: documentary added to files and to README.md.
