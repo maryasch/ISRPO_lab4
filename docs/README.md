@@ -4,16 +4,12 @@
 Для создания данного проекта был склонирован репозиторий: https://github.com/smartiqaorg/geometric_lib
 
 
-## Структура проекта
+## Файлы проекта
 
-.  
-└── geometric_lib  
-    ├── circle.py  
-    ├── docs  
-    │   └── README.md  
-    ├── rectangle.py  
-    ├── square.py  
-    └── triangle.py  
+ * circle.py  
+ * rectangle.py  
+ * square.py  
+ * triangle.py  
 
 ## Функции из файла circle.py
 
