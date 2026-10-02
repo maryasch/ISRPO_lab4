@@ -133,9 +133,14 @@
         perimeter(3.6, 1.5, 2) --> возвращает 7.1
 
 ## История изменений проекта
- * d8ab03c (HEAD -> deadline_0, origin/deadline_0) Final changes made.
- * af1f968 The most final style created in README.md (space issue resolved).
- * 86e2c5e Final atyle created in README.md.
- * e47294b Better style applied.
- * cf59cac Readme updated.
- * dc95a06 Lab done: documentary added to files and to README.md.
+
+* 6d42388 (HEAD -> deadline_0, origin/deadline_0) Final commit.
+* d8ab03c Final changes made.
+* af1f968 The most final style created in README.md (space issue resolved).
+* 86e2c5e Final atyle created in README.md.
+* e47294b Better style applied.
+* cf59cac Readme updated.
+* dc95a06 Lab done: documentary added to files and to README.md.
+* 1fa7bd2 Library documentation added (functions descriptions).
+* d078c8d (origin/main, origin/HEAD, main) L-03: Docs added
+* 8ba9aeb L-03: Circle and square added
